@@ -1,3 +1,4 @@
+ def 
  home: { team_name: 'Brooklyn Nets',
             colors: %w[Black White],
             players: [
